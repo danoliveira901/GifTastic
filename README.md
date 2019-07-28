@@ -1,5 +1,5 @@
 # GifTastic
-https://danoliveira901.github.io/GifTastic/
+https://danoliveira901.github.io/GifTastic/target="blank"
 
 # Built With
 * Giphy API
