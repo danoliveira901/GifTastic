@@ -6,4 +6,4 @@ https://danoliveira901.github.io/GifTastic/
 * Javascript
 * JQuery
 
-![images](assets/images/Capture.png)
+![Screenshot](Capture.png)
