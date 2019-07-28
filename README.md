@@ -5,3 +5,5 @@ https://danoliveira901.github.io/GifTastic/
 * Giphy API
 * Javascript
 * JQuery
+
+![images](assets/images/Capture.png)
