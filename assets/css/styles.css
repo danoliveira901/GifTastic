@@ -8,3 +8,16 @@
 .imagesBlock img {
 	height: 200px;
 }
+body{
+
+	background-image: url("../images/back.jpg");
+	margin: 0 auto;
+	background-size: 100%;
+}
+	
+.gifs {
+	display: inline;
+}
+	
+
+	

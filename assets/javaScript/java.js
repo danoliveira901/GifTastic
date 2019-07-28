@@ -17,10 +17,12 @@ renderButtons();
 
 function renderButtons(){
 	$("#buttonsArea").empty();
+	
 	$(comics).each(function( index ){
-		$("#buttonsArea").append('<button class="btn btn-primary comicsButton">'+comics[index]+'</button>')
-	});
-	$(".comicsButton").on("click",renderImages)
+	
+	$("#buttonsArea").append('<button class="btn btn-primary comicsButton">'+comics[index]+'</button>')
+});
+$(".comicsButton").on("click",renderImages)
 }
 
 function renderImages(){
