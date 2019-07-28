@@ -13,7 +13,6 @@ https://danoliveira901.github.io/GifTastic/
 * Ajax
 
 
-![Screenshot](Capture.png)
 
 ![GifTastic](assets/images/Capture.PNG)
 
