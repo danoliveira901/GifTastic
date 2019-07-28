@@ -7,3 +7,4 @@ https://danoliveira901.github.io/GifTastic/
 * JQuery
 
 ![Screenshot](Capture.png)
+![image](https://cloud.githubusercontent.com/Capture.png)
